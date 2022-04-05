@@ -7,3 +7,4 @@ for i in range(1000):
   requests.get(api)
   print(str(i+1)+" SMS SENT")
 
+Nsjs
