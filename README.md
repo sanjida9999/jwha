@@ -2,7 +2,7 @@
 <a href="#"><img title="Made In Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
-<p align="center"><a href="https://github.com/Alexx-Shohan/UID"><img title="ALEX UID" src="https://i.ibb.co/ZHPzyQd/20211216-181120.jpg"></a>
+<p align="center"><a href="https://github.com/Alexx-Shohan/UID"><img title="ALEX UID" src="https://i.ibb.co/BfzK4gD/images-2.jpg"></a>
 
 
 <h1 align="center">THE ALEX</h1>
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 > CONTACT WITH ME :
 
-p align="left">
+
 
 <a href="https://m.facebook.com/Alex-Shohan-101613722527088/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ALEX.SHOHAN" height="30" width="40" /></a>
 
